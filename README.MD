@@ -11,10 +11,10 @@ At the end of this bootcamp, you will have developed a solid foundation in data 
 Click on the respective days below to learn more:
 
 1. [March 06' 2023 (Day 1)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day1.MD)
-2. [March 07' 2023 (Day 2)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day2.MD)
-3. [March 08' 2023 (Day 3)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day3.MD)
-4. [March 09' 2023 (Day 4)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day4.MD)
-5. [March 10' 2023 (Day 5)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day5.MD)
+2. [March 09' 2023 (Day 2)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day2.MD)
+3. [March 10' 2023 (Day 3)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day3.MD)
+4. [March 11' 2023 (Day 4)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day4.MD)
+5. [March 13' 2023 (Day 5)](https://github.com/Technovt-Society/MetaData-BootCamp/blob/master/Day5.MD)
 
 ## License
 
